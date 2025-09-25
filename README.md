@@ -65,4 +65,3 @@ Let’s build things that matter. Feel free to explore my repos, raise issues, o
 
 ---
 
-*README generated on* `$(date)`  
