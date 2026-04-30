@@ -9,7 +9,7 @@
   <tr>
     <td align="center">
       <details>
-        <summary><sub><code>credentials folded small</code></sub></summary>
+        <summary><img alt="credentials folded small" src="https://img.shields.io/static/v1?label=credentials&message=folded%20small&color=F2B84B&labelColor=0D1117&style=for-the-badge" /></summary>
         <br>
         <sub>
           <code>Microsoft Certified: Data Analyst (Power BI)</code><br>
@@ -22,7 +22,11 @@
         </sub>
       </details>
       <br>
-      <a href="mailto:mafi@mafizul.me">mafi@mafizul.me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mafizul/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/MafiAtUN">github</a>
+      <a href="mailto:mafi@mafizul.me"><img alt="email" src="https://img.shields.io/badge/mafi%40mafizul.me-0D1117?style=for-the-badge&labelColor=0D1117&color=F2B84B" /></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/mafizul/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F2B84B&labelColor=0D1117&color=F2B84B" /></a>
+      &nbsp;
+      <a href="https://github.com/MafiAtUN"><img alt="github" src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=F2B84B&labelColor=0D1117&color=F2B84B" /></a>
     </td>
   </tr>
 </table>
