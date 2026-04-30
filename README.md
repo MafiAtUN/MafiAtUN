@@ -1,67 +1,101 @@
-# Hi there 👋, I’m **Mafizul Islam**  
-**Team Lead | Data & AI | UN OSAA**  
-  
-I’m a data enthusiast working at **UN OSAA** (United Nations Office of the Special Adviser on Africa), based in New York.  
-I lead the Data Team, building tools, analytics, and AI-driven insights to support African development and global policy work.
+<div align="center">
 
----
+<img width="100%" alt="(mafi)zul" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:111827&height=210&section=header&text=(mafi)zul&fontSize=70&fontColor=f5f5f0&fontAlignY=38&animation=fadeIn" />
 
-## 🚀 About Me
+<br>
 
-I have dedicated my career to working with **INGOs, UN agencies, peacekeeping missions, and UN Headquarters**, bridging the worlds of **human rights** and **technology**.  
-As a **Human Rights Officer with a supercharged IT background**, I bring deep capacities in **AI, data, and digital transformation** to the frontline of global challenges.  
+<img alt="i build things that matter. data. ai. policy. africa. small tools. real stakes. united nations peacekeeping human rights" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3200&pause=900&color=F2B84B&center=true&vCenter=true&repeat=true&width=720&height=44&lines=i+build+things+that+matter.;data.+ai.+policy.+africa.;small+tools.+real+stakes.;united+nations+%C2%B7+peacekeeping+%C2%B7+human+rights&hide_cursor=true" />
 
-My experience spans:  
-- **Policy-making & research** — harnessing data to inform decisions at the highest level  
-- **Human rights monitoring & investigation** — applying data-driven methods to identify vulnerabilities, support accountability, and protect communities  
-- **Crisis response & victim targeting** — leveraging analytics to reach those most in need during emergencies  
-- **Development & peacekeeping** — creating digital tools that enable resilience, inclusion, and sustainability  
+<br>
+<br>
 
-I specialize in **data analysis, GIS mapping, visualization, AI, and app development**, combining these to craft **visual stories that move policy and action**. Whether it’s building a pipeline that processes millions of records, developing interactive dashboards for decision-makers, or applying machine learning to complex humanitarian datasets, my mission is always clear: **turn data into impact**.  
+<svg width="520" height="38" viewBox="0 0 520 38" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated signal line">
+  <style>
+    .signal-path { stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 4.8s ease-in-out infinite; }
+    .signal-dot { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+    .signal-dot:nth-of-type(3) { animation-delay: .35s; }
+    .signal-dot:nth-of-type(4) { animation-delay: .7s; }
+    @keyframes draw {
+      0% { stroke-dashoffset: 520; opacity: .18; }
+      48% { stroke-dashoffset: 0; opacity: .9; }
+      100% { stroke-dashoffset: -520; opacity: .18; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: .25; r: 2; }
+      50% { opacity: 1; r: 4; }
+    }
+  </style>
+  <path class="signal-path" d="M8 20 C90 20 88 8 148 8 C214 8 204 30 268 30 C330 30 318 10 382 10 C444 10 432 20 512 20" stroke="#F2B84B" stroke-width="1.4" stroke-linecap="round"/>
+  <circle class="signal-dot" cx="148" cy="8" r="2" fill="#F2B84B"/>
+  <circle class="signal-dot" cx="268" cy="30" r="2" fill="#F2B84B"/>
+  <circle class="signal-dot" cx="382" cy="10" r="2" fill="#F2B84B"/>
+</svg>
 
-Beyond my professional role, I devote time to **mentoring brilliant young minds**, teaching application development, and supporting **young entrepreneurs**. Helping the next generation of leaders harness technology for good is one of the most fulfilling parts of my journey.  
+<i>
+not the cleverest lines of code,<br>
+not the tallest towers of abstraction,<br>
+just the ones that name a crisis before it spreads,<br>
+that hand a decision-maker one clear truth<br>
+from a million scattered signals.<br>
+<br>
+i build what matters.
+</i>
 
----
+<svg width="520" height="38" viewBox="0 0 520 38" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path d="M8 18H512" stroke="#30363D" stroke-width="1"/>
+  <path d="M190 18H330" stroke="#F2B84B" stroke-width="1.2" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 140;140 0;0 140" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
 
-## 🏆 Certifications & Skills
+<br>
 
-| Area | Skills / Tools | Certifications / Achievements |
-|---|---|---|
-| Data / Analytics | Python, Pandas, NumPy, SQL, ETL, data pipelines, dashboards | **Microsoft Certified Data Analyst Associate** |
-| Machine Learning / AI | scikit-learn, prompt engineering, LLMs, TensorFlow, PyTorch | **Microsoft Certified AI Engineer Associate** |
-| Data Engineering / Infra | Azure Data Factory, Synapse, dbt, Airflow, Docker, Kubernetes | **Microsoft Certified Data Engineer Associate** |
-| Visualization & Reporting | Tableau, Power BI, Plotly, Streamlit, D3.js | — |
-| Soft skills | Team leadership, project management, stakeholder engagement | — |
+<code>United Nations</code> &nbsp;·&nbsp; <code>Peacekeeping</code> &nbsp;·&nbsp; <code>Human Rights</code> &nbsp;·&nbsp; <code>Data & AI</code> &nbsp;·&nbsp; <code>Africa</code>
 
----
+<br>
+<br>
 
-## 🔭 Featured Projects
+<table>
+  <tr>
+    <td><img height="42" width="42" alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark" /></td>
+    <td><img height="42" width="42" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
+    <td><img height="42" width="42" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
+    <td><img height="42" width="42" alt="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark" /></td>
+    <td><img height="42" width="42" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></td>
+    <td><img height="42" width="42" alt="Streamlit" src="https://cdn.simpleicons.org/streamlit/FF4B4B" /></td>
+    <td><img height="42" width="42" alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
+    <td><img height="42" width="42" alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/FFF000" /></td>
+  </tr>
+</table>
 
-- **Afrobarometer-Data-Explorer** — interactive visual tool for Afrobarometer survey data  
-- **osaa-smu-data-app-prod** — dashboard app for OSAA’s Strategic Management Unit  
-- **osaa-mvp** — MVP data stack (DuckDB, sqlmesh) for OSAA pipelines  
-- **OSAAReferenceData** — curated master/reference data repository  
-- **osaa-unga-analysis** — AI-powered pipeline analyzing UNGA speeches, producing OSAA-aligned readouts  
+<br>
 
----
+<sub><code>i do not code for stats. i code for the moment when one clear signal changes the room.</code></sub>
 
-## 💡 Interests & Passions
+<br>
+<br>
 
-- **Ethical AI / AI for Social Good** — building models that respect fairness, transparency, and inclusion  
-- **Data equity & governance** — ensuring data is collected, curated, and used responsibly  
-- **Open source & reproducibility** — sharing tools, workflows, and insights with the community  
-- **Visualization & storytelling** — making complex insights intuitive and engaging  
-- **Policy, development, and Africa-focused research** — aligning technical work with real-world change  
-- **Mentorship & entrepreneurship** — guiding students and young founders to build impactful applications  
+<details>
+  <summary><sub><code>credentials folded small</code></sub></summary>
+  <br>
+  <sub>
+    <code>Microsoft Certified: Data Analyst (Power BI)</code><br>
+    <code>Microsoft Certified: Data Engineer</code><br>
+    <code>Microsoft Certified: AI Engineer</code><br>
+    <code>Microsoft Certified: Database Administrator</code><br>
+    <code>Microsoft MVP (Excel, former)</code><br>
+    <code>PRINCE2 Practitioner</code><br>
+    <code>CompTIA Security+</code>
+  </sub>
+</details>
 
----
+<br>
+<br>
 
-## 🤝 Connect With Me
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:050505&height=120&section=footer" />
 
-- 📧 Email: [mafi@mafizul.me](mailto:mafi@mafizul.me)  
-- 🌐 LinkedIn: [Mafizul Islam](https://www.linkedin.com/in/mafizul/)  
+<a href="mailto:mafi@mafizul.me">mafi@mafizul.me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mafizul/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/MafiAtUN">github</a>
 
-Let’s build things that matter. Feel free to explore my repos, raise issues, or drop me a message.  
+<br>
 
----
-
+</div>
