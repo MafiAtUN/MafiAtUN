@@ -1,0 +1,8 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path opacity=".78" d="M0 65C150 36 310 48 470 68C650 92 820 82 1000 58V120H0V65Z" fill="#161B22">
+    <animate attributeName="d" dur="17s" repeatCount="indefinite" values="M0 65C150 36 310 48 470 68C650 92 820 82 1000 58V120H0V65Z;M0 54C190 78 325 72 500 54C695 34 815 48 1000 72V120H0V54Z;M0 65C150 36 310 48 470 68C650 92 820 82 1000 58V120H0V65Z"/>
+  </path>
+  <path opacity=".96" d="M0 84C180 112 340 106 520 84C700 62 820 96 1000 78V120H0V84Z" fill="#0D1117">
+    <animate attributeName="d" dur="19s" repeatCount="indefinite" values="M0 84C180 112 340 106 520 84C700 62 820 96 1000 78V120H0V84Z;M0 76C190 58 340 96 520 80C720 62 830 62 1000 92V120H0V76Z;M0 84C180 112 340 106 520 84C700 62 820 96 1000 78V120H0V84Z"/>
+  </path>
+</svg>

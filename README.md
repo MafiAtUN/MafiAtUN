@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="(mafi)zul" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=210&section=header&text=(mafi)zul&fontSize=70&fontColor=f5f5f0&fontAlignY=38&animation=fadeIn" />
+<img width="100%" alt="(mafi)zul" src="./assets/header.svg" />
 
 <br>
 
@@ -10,6 +10,8 @@
 <br>
 
 <img width="520" alt="animated signal line" src="./assets/signal.svg" />
+
+<br>
 
 <i>
 not the cleverest lines of code,<br>
@@ -21,6 +23,8 @@ from a million scattered signals.<br>
 i build what matters.
 </i>
 
+<br>
+
 <img width="520" alt="" src="./assets/signal-rule.svg" />
 
 <br>
@@ -30,21 +34,7 @@ i build what matters.
 <br>
 <br>
 
-<img height="42" width="42" alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="Streamlit" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
-&nbsp;
-<img height="42" width="42" alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
-&nbsp;
-<img height="42" width="42" alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/FFF000" />
+<p align="center"><img height="42" width="42" alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="Streamlit" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />&nbsp;&nbsp;<img height="42" width="42" alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />&nbsp;&nbsp;<img height="42" width="42" alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/FFF000" /></p>
 
 <br>
 
@@ -70,7 +60,7 @@ i build what matters.
 <br>
 <br>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
+<img width="100%" alt="" src="./assets/footer.svg" />
 
 <a href="mailto:mafi@mafizul.me">mafi@mafizul.me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mafizul/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/MafiAtUN">github</a>
 
