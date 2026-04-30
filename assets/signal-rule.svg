@@ -1,0 +1,6 @@
+<svg width="520" height="38" viewBox="0 0 520 38" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="signal rule">
+  <path d="M8 18H512" stroke="#30363D" stroke-width="1"/>
+  <path d="M190 18H330" stroke="#F2B84B" stroke-width="1.2" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 140;140 0;0 140" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
