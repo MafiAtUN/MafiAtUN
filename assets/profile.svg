@@ -51,11 +51,8 @@
     United Nations · Peacekeeping · Human Rights · Data &amp; AI · Africa
   </text>
 
-  <text x="500" y="810" text-anchor="middle" fill="#F2B84B" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="15">
-    credentials folded small · Microsoft data · AI · engineering · database · MVP · PRINCE2 · Security+
-  </text>
 
-  <g transform="translate(155 850)">
+<g transform="translate(155 850)">
     <rect width="78" height="54" rx="13" fill="#161B22"/><text x="39" y="35" text-anchor="middle" fill="#F2B84B" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="20" font-weight="700">PY</text>
     <rect x="88" width="78" height="54" rx="13" fill="#161B22"/><text x="127" y="35" text-anchor="middle" fill="#58A6FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="17" font-weight="700">SQL</text>
     <rect x="176" width="78" height="54" rx="13" fill="#161B22"/><text x="215" y="35" text-anchor="middle" fill="#39C5FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="16" font-weight="700">DOCK</text>
@@ -73,5 +70,4 @@
   <path opacity=".72" d="M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z" fill="#161B22">
     <animate attributeName="d" dur="18s" repeatCount="indefinite" values="M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z;M0 1074C180 1100 330 1110 520 1082C700 1058 835 1070 1000 1100V1180H0V1074Z;M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z"/>
   </path>
-  <text x="500" y="1140" text-anchor="middle" fill="#58A6FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="17">mafi@mafizul.me · linkedin · github</text>
 </svg>

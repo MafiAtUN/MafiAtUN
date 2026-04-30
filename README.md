@@ -9,7 +9,7 @@
   <tr>
     <td align="center">
       <details>
-        <summary><img alt="credentials folded small" src="https://img.shields.io/static/v1?label=credentials&message=folded%20small&color=F2B84B&labelColor=0D1117&style=for-the-badge" /></summary>
+        <summary><img alt="credentials" src="https://img.shields.io/static/v1?label=credentials&message=folded&color=F2B84B&labelColor=0D1117&style=for-the-badge" /></summary>
         <br>
         <sub>
           <code>Microsoft Certified: Data Analyst (Power BI)</code><br>
