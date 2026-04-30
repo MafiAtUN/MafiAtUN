@@ -1,0 +1,77 @@
+<svg width="1000" height="1180" viewBox="0 0 1000 1180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mafizul Islam GitHub profile manifesto">
+  <rect width="1000" height="1180" fill="#0D1117"/>
+
+  <path opacity=".78" d="M0 170C160 200 290 186 430 166C600 142 750 132 1000 164V250H0V170Z" fill="#161B22">
+    <animate attributeName="d" dur="16s" repeatCount="indefinite" values="M0 170C160 200 290 186 430 166C600 142 750 132 1000 164V250H0V170Z;M0 154C180 172 326 198 510 168C704 136 840 162 1000 148V250H0V154Z;M0 170C160 200 290 186 430 166C600 142 750 132 1000 164V250H0V170Z"/>
+  </path>
+  <text x="500" y="125" text-anchor="middle" fill="#F5F5F0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="78" font-weight="800">(mafi)zul</text>
+
+  <text x="500" y="300" text-anchor="middle" fill="#F2B84B" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="24">
+    <tspan x="500" y="300">
+      i build things that matter.
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan x="500" y="300" opacity="0">
+      data. ai. policy. africa.
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan x="500" y="300" opacity="0">
+      small tools. real stakes.
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan x="500" y="300" opacity="0">
+      united nations · peacekeeping · human rights
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <path d="M120 405 C220 405 210 385 285 385 C360 385 352 425 430 425 C512 425 495 390 575 390 C660 390 650 408 760 408" stroke="#F2B84B" stroke-width="1.5" stroke-linecap="round" opacity=".72" stroke-dasharray="640" stroke-dashoffset="640">
+    <animate attributeName="stroke-dashoffset" values="640;0;-640" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="285" cy="385" r="4" fill="#F2B84B" opacity=".9"/>
+  <circle cx="430" cy="425" r="4" fill="#F2B84B" opacity=".65"/>
+  <circle cx="575" cy="390" r="4" fill="#F2B84B" opacity=".9"/>
+
+  <text x="500" y="485" text-anchor="middle" fill="#E6EDF3" font-family="Georgia,serif" font-style="italic" font-size="22">
+    <tspan x="500" dy="0">not the cleverest lines of code,</tspan>
+    <tspan x="500" dy="32">not the tallest towers of abstraction,</tspan>
+    <tspan x="500" dy="32">just the ones that name a crisis before it spreads,</tspan>
+    <tspan x="500" dy="32">that hand a decision-maker one clear truth</tspan>
+    <tspan x="500" dy="32">from a million scattered signals.</tspan>
+    <tspan x="500" dy="54">i build what matters.</tspan>
+  </text>
+
+  <line x1="170" y1="695" x2="830" y2="695" stroke="#30363D" stroke-width="1.2"/>
+  <line x1="405" y1="695" x2="595" y2="695" stroke="#F2B84B" stroke-width="1.4" stroke-linecap="round">
+    <animate attributeName="x1" values="170;405;595;405;170" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="405;595;830;595;405" dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="500" y="755" text-anchor="middle" fill="#C9D1D9" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="18">
+    United Nations · Peacekeeping · Human Rights · Data &amp; AI · Africa
+  </text>
+
+  <g transform="translate(155 820)">
+    <rect width="78" height="54" rx="13" fill="#161B22"/><text x="39" y="35" text-anchor="middle" fill="#F2B84B" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="20" font-weight="700">PY</text>
+    <rect x="88" width="78" height="54" rx="13" fill="#161B22"/><text x="127" y="35" text-anchor="middle" fill="#58A6FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="17" font-weight="700">SQL</text>
+    <rect x="176" width="78" height="54" rx="13" fill="#161B22"/><text x="215" y="35" text-anchor="middle" fill="#39C5FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="16" font-weight="700">DOCK</text>
+    <rect x="264" width="78" height="54" rx="13" fill="#161B22"/><text x="303" y="35" text-anchor="middle" fill="#58A6FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="16" font-weight="700">AZ</text>
+    <rect x="352" width="78" height="54" rx="13" fill="#161B22"/><text x="391" y="35" text-anchor="middle" fill="#FF7B00" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="16" font-weight="700">TF</text>
+    <rect x="440" width="78" height="54" rx="13" fill="#161B22"/><text x="479" y="35" text-anchor="middle" fill="#FF4B4B" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="16" font-weight="700">ST</text>
+    <rect x="528" width="78" height="54" rx="13" fill="#161B22"/><text x="567" y="35" text-anchor="middle" fill="#F85149" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="17" font-weight="700">GIT</text>
+    <rect x="616" width="78" height="54" rx="13" fill="#161B22"/><text x="655" y="35" text-anchor="middle" fill="#FFF000" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="15" font-weight="700">DUCK</text>
+  </g>
+
+  <text x="500" y="945" text-anchor="middle" fill="#8B949E" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="15">
+    i do not code for stats. i code for the moment when one clear signal changes the room.
+  </text>
+
+  <text x="500" y="1008" text-anchor="middle" fill="#C9D1D9" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="15">
+    Microsoft data · AI · engineering · database · MVP · PRINCE2 · Security+
+  </text>
+
+  <path opacity=".72" d="M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z" fill="#161B22">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" values="M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z;M0 1074C180 1100 330 1110 520 1082C700 1058 835 1070 1000 1100V1180H0V1074Z;M0 1088C150 1060 320 1070 490 1090C660 1110 820 1100 1000 1075V1180H0V1088Z"/>
+  </path>
+  <text x="500" y="1140" text-anchor="middle" fill="#58A6FF" font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" font-size="17">mafi@mafizul.me · linkedin · github</text>
+</svg>
